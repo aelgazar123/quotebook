@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Live long and prosper
+=======
+merging
+>>>>>>> personal_quotes
